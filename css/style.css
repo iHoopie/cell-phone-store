@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Figtree", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700;800;900&display=swap");
+
+.banner {
+  width: 100%;
+}
+
+.container {
+  box-sizing: border-box;
+  gap: 5rem;
+}
+
+.cardbody {
+
+  margin-bottom: 2rem;
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bolder;
+  margin-bottom: 1rem;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.btn {
+  cursor: pointer;
+  border-radius: 0.7em;
+  font-weight: bolder;
+}
+
+.card-img-moto {
+  padding: 27px;
+}
+
+.card-img-sam {
+  padding: 27px;
+}
+
+.card-img-apple {
+  padding: 27px;
+}
+
+.terminos {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.copyrigth {
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+h1 {
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.txt-terminos {
+  text-align: center;
+  margin: 5rem 15rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
